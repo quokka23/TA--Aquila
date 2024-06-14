@@ -5,3 +5,6 @@
 
 # Gas Sensor
 [Arduino Code](gas_sensor.zip)
+
+# Foto Fisik
+[Gambar Rangkaian ESP 32](Aquila.jpeg)
